@@ -1,3 +1,11 @@
+/* This is the abstract Class. Difference is shown in using abstract class and concrete class.
+ We cannot create object of abstract class directly. 
+ An abstract class in Java is a class that can not be initiated on its own but can be used as a subclass by another class
+ The main purpose of the abstract class is to create a base class from which many other classes can be derived.
+ An abstract class provides the provides of data hiding in Java.*/
+
+
+
 package Student;
 
 abstract class Shape{
