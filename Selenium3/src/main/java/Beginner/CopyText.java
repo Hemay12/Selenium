@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class CopyText {
-
+x	
 	public static void main(String[] args) {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://softwaretestingpro.github.io/Automation/Beginner/B-1.06-ValueInput.html");
