@@ -14,5 +14,5 @@ public class DownloadFile {
 		WebElement download = driver.findElement(By.linkText("some-file.txt"));
 		download.click();
 	}
-
+	
 }
