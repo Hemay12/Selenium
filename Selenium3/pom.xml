@@ -17,7 +17,16 @@
     <artifactId>selenium-chrome-driver</artifactId>
     <version>4.23.1</version>
 </dependency>
-
+<dependency>
+    <groupId>commons-io</groupId>
+    <artifactId>commons-io</artifactId>
+    <version>2.11.0</version> <!-- You can use the latest version -->
+</dependency>
+<dependency>
+    <groupId>ru.yandex.qatools.ashot</groupId>
+    <artifactId>ashot</artifactId>
+    <version>1.5.4</version> <!-- Check for the latest version -->
+</dependency>
 
 
   </dependencies>
